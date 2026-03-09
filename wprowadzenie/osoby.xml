@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<uczestnicy>
+	<osoba lp="1" nazwisko="Bany" imie="Natalia" rok="2011" kierunek="administracja"  dojazd="sredni" stypednium="brak">
+
+		<przedmiot nazwa="prawo" ileGodzin="14"/>
+		<przedmiot nazwa="finanse" ileGodzin="20"/>
+		<przedmiot nazwa="zarzadzanie zasobami ludzkimi" ileGodzin="8"/>
+
+	</osoba>
+	<osoba lp="2" nazwisko="Borowski" imie="Grzegorz Jan" rok="2012" kierunek="administracja" dojazd="sredni" stypednium="tak">
+	
+	   <przedmiot nazwa="prawo" ileGodzin="14"/>
+	   <przedmiot nazwa="finanse" ileGodzin="20"/>
+	   <przedmiot nazwa="zarzadzanie zasobami ludzkimi" ileGodzin="8"/>
+
+	</osoba>
+	
+	<osoba lp="3" nazwisko="Bronikowski" imie="Michal Jerzy Adam" rok="2011" kierunek="zarzadzanie" dojazd="krotki" stypednium="tak">
+	
+	  <przedmiot nazwa="spolki prawa handlowego" ileGodzin="12"/>
+	  <przedmiot nazwa="bezpieczenstwo" ileGodzin="8"/>
+
+	</osoba>
+
+	<osoba lp="4" nazwisko="Jasinska" imie="Monika" rok="2015" kierunek="administracja" dojazd="brak" stypednium="brak">
+	
+	  <przedmiot nazwa="prawo" ileGodzin="14"/>
+	  <przedmiot nazwa="finanse" ileGodzin="20"/>
+	  <przedmiot nazwa="zarzadzanie zasobami ludzkimi" ileGodzin="8"/>
+	
+	</osoba>
+	<osoba lp="5" nazwisko="Kopczynska" imie="Jolanta" rok="2012" kierunek="zarzadzanie" dojazd="dlugi" stypednium="tak">
+	
+	  <przedmiot nazwa="spolki prawa handlowego" ileGodzin="12"/>
+	  <przedmiot nazwa="bezpieczenstwo" ileGodzin="8"/>
+	</osoba>
+	
+</uczestnicy>
